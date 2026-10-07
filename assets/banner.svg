@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1423"/><stop offset="1" stop-color="#1d3546"/></linearGradient>
+    <linearGradient id="mint"><stop stop-color="#51dfc0"/><stop offset="1" stop-color="#7dd3fc"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7dd3fc" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#grid)"/>
+  <circle cx="1170" cy="95" r="180" fill="#51dfc0" opacity=".045"/>
+  <circle cx="1080" cy="290" r="240" fill="none" stroke="#51dfc0" stroke-opacity=".1"/>
+  <rect x="64" y="58" width="240" height="35" rx="17" fill="#164c41"/>
+  <circle cx="83" cy="75" r="5" fill="#51dfc0"/>
+  <text x="99" y="81" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#8df4db" letter-spacing="1">OFFLINE • OPEN SOURCE</text>
+  <text x="64" y="166" font-family="Segoe UI,Arial,sans-serif" font-size="49" font-weight="700" fill="#edf5ff">mohamadmilad hadad</text>
+  <text x="66" y="219" font-family="Segoe UI,Arial,sans-serif" font-size="29" fill="#b2c5dd">SSL Certificate Studio</text>
+  <text x="66" y="266" font-family="Segoe UI,Arial,sans-serif" font-size="19" fill="#94aac2">Your certificates. Your computer. No uploads.</text>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#bdeedf" text-anchor="middle">
+    <rect x="64" y="310" width="116" height="42" rx="10" fill="#203a46"/><text x="122" y="337">PEM / CER</text>
+    <rect x="194" y="310" width="116" height="42" rx="10" fill="#203a46"/><text x="252" y="337">PFX / P12</text>
+    <rect x="324" y="310" width="116" height="42" rx="10" fill="#203a46"/><text x="382" y="337">PKCS#7</text>
+    <rect x="454" y="310" width="116" height="42" rx="10" fill="#203a46"/><text x="512" y="337">Windows EXE</text>
+  </g>
+  <path d="M1035 67L1166 118L1153 258Q1126 326 1035 371Q944 326 917 258L904 118Z" fill="#152a38" stroke="url(#mint)" stroke-width="4"/>
+  <rect x="977" y="200" width="116" height="91" rx="17" fill="url(#mint)"/>
+  <path d="M997 204V173Q997 129 1035 129Q1073 129 1073 173V204" fill="none" stroke="#51dfc0" stroke-width="13"/>
+  <circle cx="1035" cy="236" r="10" fill="#142936"/><path d="M1035 242V267" stroke="#142936" stroke-width="10" stroke-linecap="round"/>
+  <text x="1194" y="388" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#93b3c6">v1.0.0 • Built for local control</text>
+</svg>
