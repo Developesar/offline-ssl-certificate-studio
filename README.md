@@ -17,7 +17,7 @@
 
 ### دریافت نسخه اول
 
-از [صفحه انتشار v1.0.0](https://github.com/Developesar/offline-ssl-certificate-studio/releases/tag/v1.0.0)، فایل **mohamadmilad hadad.exe** را دانلود و اجرا کنید. هش SHA-256 در فایل `SHA256SUMS.txt` همان انتشار قرار دارد. برنامه نصب‌کننده و دسترسی Administrator نمی‌خواهد. فایل اجرایی نسخه اول امضای دیجیتال ناشر ندارد.
+از [صفحه انتشار v1.0.0](https://github.com/Developesar/offline-ssl-certificate-studio/releases/tag/v1.0.0)، فایل **mohamadmilad-hadad.exe** را دانلود و اجرا کنید. هش SHA-256 در فایل `SHA256SUMS.txt` همان انتشار قرار دارد. برنامه نصب‌کننده و دسترسی Administrator نمی‌خواهد. فایل اجرایی نسخه اول امضای دیجیتال ناشر ندارد.
 
 ### امکانات
 
@@ -75,7 +75,7 @@
 
 ### Download & use
 
-Download **mohamadmilad hadad.exe** from [v1.0.0 Releases](https://github.com/Developesar/offline-ssl-certificate-studio/releases/tag/v1.0.0). `SHA256SUMS.txt` lists its checksum. No installer or administrator access is required. The first release is not publisher-signed.
+Download **mohamadmilad-hadad.exe** from [v1.0.0 Releases](https://github.com/Developesar/offline-ssl-certificate-studio/releases/tag/v1.0.0). `SHA256SUMS.txt` lists its checksum. No installer or administrator access is required. The first release is not publisher-signed.
 
 Select the certificate, its original private key when required, and any issuer certificates. Enter the input password for encrypted sources, inspect the certificate, select output formats, choose a local folder and set an output password. Click **Convert & save**.
 
